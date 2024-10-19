@@ -1,0 +1,15 @@
+/*
+* Author: Joaquin Gomez
+*
+* Purose: CSS for Assignment 1 
+*/
+body{
+    background-color: aliceblue;
+}
+.example{
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
